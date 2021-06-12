@@ -1,0 +1,225 @@
+UVM_INFO /home/runner/p_encoder_scoreboard.sv(67) @ 0: uvm_test_top.env_h.scoreboard_h [write_mon OUT ] in=00000000  || out=xxx
+UVM_INFO /home/runner/p_encoder_scoreboard.sv(48) @ 5: uvm_test_top.env_h.scoreboard_h [write_drv STIM] in=00000001 
+UVM_INFO /home/runner/p_encoder_scoreboard.sv(67) @ 5: uvm_test_top.env_h.scoreboard_h [write_mon OUT ] in=00000001  || out=111
+UVM_INFO /home/runner/p_encoder_scoreboard.sv(48) @ 10: uvm_test_top.env_h.scoreboard_h [write_drv STIM] in=00000010 
+UVM_INFO /home/runner/p_encoder_scoreboard.sv(67) @ 10: uvm_test_top.env_h.scoreboard_h [write_mon OUT ] in=00000010  || out=000
+UVM_INFO /home/runner/p_encoder_scoreboard.sv(84) @ 10: uvm_test_top.env_h.scoreboard_h [
+[PASS ] in=00000010  || out=000
+UVM_INFO /home/runner/p_encoder_scoreboard.sv(48) @ 15: uvm_test_top.env_h.scoreboard_h [write_drv STIM] in=00000100 
+UVM_INFO /home/runner/p_encoder_scoreboard.sv(67) @ 15: uvm_test_top.env_h.scoreboard_h [write_mon OUT ] in=00000100  || out=001
+UVM_INFO /home/runner/p_encoder_scoreboard.sv(84) @ 15: uvm_test_top.env_h.scoreboard_h [
+[PASS ] in=00000100  || out=001
+UVM_INFO /home/runner/p_encoder_scoreboard.sv(48) @ 20: uvm_test_top.env_h.scoreboard_h [write_drv STIM] in=00001000 
+UVM_INFO /home/runner/p_encoder_scoreboard.sv(67) @ 20: uvm_test_top.env_h.scoreboard_h [write_mon OUT ] in=00001000  || out=010
+UVM_INFO /home/runner/p_encoder_scoreboard.sv(84) @ 20: uvm_test_top.env_h.scoreboard_h [
+[PASS ] in=00001000  || out=010
+UVM_INFO /home/runner/p_encoder_scoreboard.sv(48) @ 25: uvm_test_top.env_h.scoreboard_h [write_drv STIM] in=00010000 
+UVM_INFO /home/runner/p_encoder_scoreboard.sv(67) @ 25: uvm_test_top.env_h.scoreboard_h [write_mon OUT ] in=00010000  || out=011
+UVM_INFO /home/runner/p_encoder_scoreboard.sv(84) @ 25: uvm_test_top.env_h.scoreboard_h [
+[PASS ] in=00010000  || out=011
+UVM_INFO /home/runner/p_encoder_scoreboard.sv(48) @ 30: uvm_test_top.env_h.scoreboard_h [write_drv STIM] in=00100000 
+UVM_INFO /home/runner/p_encoder_scoreboard.sv(67) @ 30: uvm_test_top.env_h.scoreboard_h [write_mon OUT ] in=00100000  || out=100
+UVM_INFO /home/runner/p_encoder_scoreboard.sv(84) @ 30: uvm_test_top.env_h.scoreboard_h [
+[PASS ] in=00100000  || out=100
+UVM_INFO /home/runner/p_encoder_scoreboard.sv(48) @ 35: uvm_test_top.env_h.scoreboard_h [write_drv STIM] in=01000000 
+UVM_INFO /home/runner/p_encoder_scoreboard.sv(67) @ 35: uvm_test_top.env_h.scoreboard_h [write_mon OUT ] in=01000000  || out=101
+UVM_INFO /home/runner/p_encoder_scoreboard.sv(84) @ 35: uvm_test_top.env_h.scoreboard_h [
+[PASS ] in=01000000  || out=101
+UVM_INFO /home/runner/p_encoder_scoreboard.sv(48) @ 40: uvm_test_top.env_h.scoreboard_h [write_drv STIM] in=10000000 
+UVM_INFO /home/runner/p_encoder_scoreboard.sv(67) @ 40: uvm_test_top.env_h.scoreboard_h [write_mon OUT ] in=10000000  || out=110
+UVM_INFO /home/runner/p_encoder_scoreboard.sv(84) @ 40: uvm_test_top.env_h.scoreboard_h [
+[PASS ] in=10000000  || out=110
+UVM_INFO /home/runner/p_encoder_scoreboard.sv(48) @ 45: uvm_test_top.env_h.scoreboard_h [write_drv STIM] in=00000001 
+UVM_INFO /home/runner/p_encoder_scoreboard.sv(67) @ 45: uvm_test_top.env_h.scoreboard_h [write_mon OUT ] in=00000001  || out=111
+UVM_INFO /home/runner/p_encoder_scoreboard.sv(84) @ 45: uvm_test_top.env_h.scoreboard_h [
+[PASS ] in=00000001  || out=111
+UVM_INFO /home/runner/p_encoder_scoreboard.sv(48) @ 50: uvm_test_top.env_h.scoreboard_h [write_drv STIM] in=00000010 
+UVM_INFO /home/runner/p_encoder_scoreboard.sv(67) @ 50: uvm_test_top.env_h.scoreboard_h [write_mon OUT ] in=00000010  || out=000
+UVM_INFO /home/runner/p_encoder_scoreboard.sv(84) @ 50: uvm_test_top.env_h.scoreboard_h [
+[PASS ] in=00000010  || out=000
+UVM_INFO /home/runner/p_encoder_scoreboard.sv(48) @ 55: uvm_test_top.env_h.scoreboard_h [write_drv STIM] in=00000100 
+UVM_INFO /home/runner/p_encoder_scoreboard.sv(67) @ 55: uvm_test_top.env_h.scoreboard_h [write_mon OUT ] in=00000100  || out=001
+UVM_INFO /home/runner/p_encoder_scoreboard.sv(84) @ 55: uvm_test_top.env_h.scoreboard_h [
+[PASS ] in=00000100  || out=001
+UVM_INFO /home/runner/p_encoder_scoreboard.sv(48) @ 60: uvm_test_top.env_h.scoreboard_h [write_drv STIM] in=00001000 
+UVM_INFO /home/runner/p_encoder_scoreboard.sv(67) @ 60: uvm_test_top.env_h.scoreboard_h [write_mon OUT ] in=00001000  || out=010
+UVM_INFO /home/runner/p_encoder_scoreboard.sv(84) @ 60: uvm_test_top.env_h.scoreboard_h [
+[PASS ] in=00001000  || out=010
+UVM_INFO /home/runner/p_encoder_scoreboard.sv(48) @ 65: uvm_test_top.env_h.scoreboard_h [write_drv STIM] in=00010000 
+UVM_INFO /home/runner/p_encoder_scoreboard.sv(67) @ 65: uvm_test_top.env_h.scoreboard_h [write_mon OUT ] in=00010000  || out=011
+UVM_INFO /home/runner/p_encoder_scoreboard.sv(84) @ 65: uvm_test_top.env_h.scoreboard_h [
+[PASS ] in=00010000  || out=011
+UVM_INFO /home/runner/p_encoder_scoreboard.sv(48) @ 70: uvm_test_top.env_h.scoreboard_h [write_drv STIM] in=00100000 
+UVM_INFO /home/runner/p_encoder_scoreboard.sv(67) @ 70: uvm_test_top.env_h.scoreboard_h [write_mon OUT ] in=00100000  || out=100
+UVM_INFO /home/runner/p_encoder_scoreboard.sv(84) @ 70: uvm_test_top.env_h.scoreboard_h [
+[PASS ] in=00100000  || out=100
+UVM_INFO /home/runner/p_encoder_scoreboard.sv(48) @ 75: uvm_test_top.env_h.scoreboard_h [write_drv STIM] in=01000000 
+UVM_INFO /home/runner/p_encoder_scoreboard.sv(67) @ 75: uvm_test_top.env_h.scoreboard_h [write_mon OUT ] in=01000000  || out=101
+UVM_INFO /home/runner/p_encoder_scoreboard.sv(84) @ 75: uvm_test_top.env_h.scoreboard_h [
+[PASS ] in=01000000  || out=101
+UVM_INFO /home/runner/p_encoder_scoreboard.sv(48) @ 80: uvm_test_top.env_h.scoreboard_h [write_drv STIM] in=10000000 
+UVM_INFO /home/runner/p_encoder_scoreboard.sv(67) @ 80: uvm_test_top.env_h.scoreboard_h [write_mon OUT ] in=10000000  || out=110
+UVM_INFO /home/runner/p_encoder_scoreboard.sv(84) @ 80: uvm_test_top.env_h.scoreboard_h [
+[PASS ] in=10000000  || out=110
+UVM_INFO /home/runner/p_encoder_scoreboard.sv(48) @ 85: uvm_test_top.env_h.scoreboard_h [write_drv STIM] in=10010010 
+UVM_INFO /home/runner/p_encoder_scoreboard.sv(67) @ 85: uvm_test_top.env_h.scoreboard_h [write_mon OUT ] in=10010010  || out=111
+UVM_INFO /home/runner/p_encoder_scoreboard.sv(84) @ 85: uvm_test_top.env_h.scoreboard_h [
+[PASS ] in=10010010  || out=111
+UVM_INFO /home/runner/p_encoder_scoreboard.sv(48) @ 90: uvm_test_top.env_h.scoreboard_h [write_drv STIM] in=11111111 
+UVM_INFO /home/runner/p_encoder_scoreboard.sv(67) @ 90: uvm_test_top.env_h.scoreboard_h [write_mon OUT ] in=11111111  || out=001
+UVM_INFO /home/runner/p_encoder_scoreboard.sv(84) @ 90: uvm_test_top.env_h.scoreboard_h [
+[PASS ] in=11111111  || out=001
+UVM_INFO /home/runner/p_encoder_scoreboard.sv(48) @ 95: uvm_test_top.env_h.scoreboard_h [write_drv STIM] in=11011001 
+UVM_INFO /home/runner/p_encoder_scoreboard.sv(67) @ 95: uvm_test_top.env_h.scoreboard_h [write_mon OUT ] in=11011001  || out=000
+UVM_INFO /home/runner/p_encoder_scoreboard.sv(84) @ 95: uvm_test_top.env_h.scoreboard_h [
+[PASS ] in=11011001  || out=000
+UVM_INFO /home/runner/p_encoder_scoreboard.sv(48) @ 100: uvm_test_top.env_h.scoreboard_h [write_drv STIM] in=00100000 
+UVM_INFO /home/runner/p_encoder_scoreboard.sv(67) @ 100: uvm_test_top.env_h.scoreboard_h [write_mon OUT ] in=00100000  || out=000
+UVM_INFO /home/runner/p_encoder_scoreboard.sv(84) @ 100: uvm_test_top.env_h.scoreboard_h [
+[PASS ] in=00100000  || out=000
+UVM_INFO /home/runner/p_encoder_scoreboard.sv(48) @ 105: uvm_test_top.env_h.scoreboard_h [write_drv STIM] in=11010100 
+UVM_INFO /home/runner/p_encoder_scoreboard.sv(67) @ 105: uvm_test_top.env_h.scoreboard_h [write_mon OUT ] in=11010100  || out=101
+UVM_INFO /home/runner/p_encoder_scoreboard.sv(84) @ 105: uvm_test_top.env_h.scoreboard_h [
+[PASS ] in=11010100  || out=101
+UVM_INFO /home/runner/p_encoder_scoreboard.sv(48) @ 110: uvm_test_top.env_h.scoreboard_h [write_drv STIM] in=11110101 
+UVM_INFO /home/runner/p_encoder_scoreboard.sv(67) @ 110: uvm_test_top.env_h.scoreboard_h [write_mon OUT ] in=11110101  || out=010
+UVM_INFO /home/runner/p_encoder_scoreboard.sv(84) @ 110: uvm_test_top.env_h.scoreboard_h [
+[PASS ] in=11110101  || out=010
+UVM_INFO /home/runner/p_encoder_scoreboard.sv(48) @ 115: uvm_test_top.env_h.scoreboard_h [write_drv STIM] in=10000011 
+UVM_INFO /home/runner/p_encoder_scoreboard.sv(67) @ 115: uvm_test_top.env_h.scoreboard_h [write_mon OUT ] in=10000011  || out=000
+UVM_INFO /home/runner/p_encoder_scoreboard.sv(84) @ 115: uvm_test_top.env_h.scoreboard_h [
+[PASS ] in=10000011  || out=000
+UVM_INFO /home/runner/p_encoder_scoreboard.sv(48) @ 120: uvm_test_top.env_h.scoreboard_h [write_drv STIM] in=01111110 
+UVM_INFO /home/runner/p_encoder_scoreboard.sv(67) @ 120: uvm_test_top.env_h.scoreboard_h [write_mon OUT ] in=01111110  || out=000
+UVM_INFO /home/runner/p_encoder_scoreboard.sv(84) @ 120: uvm_test_top.env_h.scoreboard_h [
+[PASS ] in=01111110  || out=000
+UVM_INFO /home/runner/p_encoder_scoreboard.sv(48) @ 125: uvm_test_top.env_h.scoreboard_h [write_drv STIM] in=11100110 
+UVM_INFO /home/runner/p_encoder_scoreboard.sv(67) @ 125: uvm_test_top.env_h.scoreboard_h [write_mon OUT ] in=11100110  || out=001
+UVM_INFO /home/runner/p_encoder_scoreboard.sv(84) @ 125: uvm_test_top.env_h.scoreboard_h [
+[PASS ] in=11100110  || out=001
+UVM_INFO /home/runner/p_encoder_scoreboard.sv(48) @ 130: uvm_test_top.env_h.scoreboard_h [write_drv STIM] in=10111011 
+UVM_INFO /home/runner/p_encoder_scoreboard.sv(67) @ 130: uvm_test_top.env_h.scoreboard_h [write_mon OUT ] in=10111011  || out=001
+UVM_INFO /home/runner/p_encoder_scoreboard.sv(84) @ 130: uvm_test_top.env_h.scoreboard_h [
+[PASS ] in=10111011  || out=001
+UVM_INFO /home/runner/p_encoder_scoreboard.sv(48) @ 135: uvm_test_top.env_h.scoreboard_h [write_drv STIM] in=11111101 
+UVM_INFO /home/runner/p_encoder_scoreboard.sv(67) @ 135: uvm_test_top.env_h.scoreboard_h [write_mon OUT ] in=11111101  || out=000
+UVM_INFO /home/runner/p_encoder_scoreboard.sv(84) @ 135: uvm_test_top.env_h.scoreboard_h [
+[PASS ] in=11111101  || out=000
+UVM_INFO /home/runner/p_encoder_scoreboard.sv(48) @ 140: uvm_test_top.env_h.scoreboard_h [write_drv STIM] in=10101100 
+UVM_INFO /home/runner/p_encoder_scoreboard.sv(67) @ 140: uvm_test_top.env_h.scoreboard_h [write_mon OUT ] in=10101100  || out=000
+UVM_INFO /home/runner/p_encoder_scoreboard.sv(84) @ 140: uvm_test_top.env_h.scoreboard_h [
+[PASS ] in=10101100  || out=000
+UVM_INFO /home/runner/p_encoder_scoreboard.sv(48) @ 145: uvm_test_top.env_h.scoreboard_h [write_drv STIM] in=11001000 
+UVM_INFO /home/runner/p_encoder_scoreboard.sv(67) @ 145: uvm_test_top.env_h.scoreboard_h [write_mon OUT ] in=11001000  || out=010
+UVM_INFO /home/runner/p_encoder_scoreboard.sv(84) @ 145: uvm_test_top.env_h.scoreboard_h [
+[PASS ] in=11001000  || out=010
+UVM_INFO /home/runner/p_encoder_scoreboard.sv(48) @ 150: uvm_test_top.env_h.scoreboard_h [write_drv STIM] in=01010001 
+UVM_INFO /home/runner/p_encoder_scoreboard.sv(67) @ 150: uvm_test_top.env_h.scoreboard_h [write_mon OUT ] in=01010001  || out=011
+UVM_INFO /home/runner/p_encoder_scoreboard.sv(84) @ 150: uvm_test_top.env_h.scoreboard_h [
+[PASS ] in=01010001  || out=011
+UVM_INFO /home/runner/p_encoder_scoreboard.sv(48) @ 155: uvm_test_top.env_h.scoreboard_h [write_drv STIM] in=01000111 
+UVM_INFO /home/runner/p_encoder_scoreboard.sv(67) @ 155: uvm_test_top.env_h.scoreboard_h [write_mon OUT ] in=01000111  || out=000
+UVM_INFO /home/runner/p_encoder_scoreboard.sv(84) @ 155: uvm_test_top.env_h.scoreboard_h [
+[PASS ] in=01000111  || out=000
+UVM_INFO /home/runner/p_encoder_scoreboard.sv(48) @ 160: uvm_test_top.env_h.scoreboard_h [write_drv STIM] in=10101010 
+UVM_INFO /home/runner/p_encoder_scoreboard.sv(67) @ 160: uvm_test_top.env_h.scoreboard_h [write_mon OUT ] in=10101010  || out=000
+UVM_INFO /home/runner/p_encoder_scoreboard.sv(84) @ 160: uvm_test_top.env_h.scoreboard_h [
+[PASS ] in=10101010  || out=000
+UVM_INFO /home/runner/p_encoder_scoreboard.sv(48) @ 165: uvm_test_top.env_h.scoreboard_h [write_drv STIM] in=01111010 
+UVM_INFO /home/runner/p_encoder_scoreboard.sv(67) @ 165: uvm_test_top.env_h.scoreboard_h [write_mon OUT ] in=01111010  || out=001
+UVM_INFO /home/runner/p_encoder_scoreboard.sv(84) @ 165: uvm_test_top.env_h.scoreboard_h [
+[PASS ] in=01111010  || out=001
+UVM_INFO /home/runner/p_encoder_scoreboard.sv(48) @ 170: uvm_test_top.env_h.scoreboard_h [write_drv STIM] in=10110111 
+UVM_INFO /home/runner/p_encoder_scoreboard.sv(67) @ 170: uvm_test_top.env_h.scoreboard_h [write_mon OUT ] in=10110111  || out=001
+UVM_INFO /home/runner/p_encoder_scoreboard.sv(84) @ 170: uvm_test_top.env_h.scoreboard_h [
+[PASS ] in=10110111  || out=001
+UVM_INFO /home/runner/p_encoder_scoreboard.sv(48) @ 175: uvm_test_top.env_h.scoreboard_h [write_drv STIM] in=01100001 
+UVM_INFO /home/runner/p_encoder_scoreboard.sv(67) @ 175: uvm_test_top.env_h.scoreboard_h [write_mon OUT ] in=01100001  || out=000
+UVM_INFO /home/runner/p_encoder_scoreboard.sv(84) @ 175: uvm_test_top.env_h.scoreboard_h [
+[PASS ] in=01100001  || out=000
+UVM_INFO /home/runner/p_encoder_scoreboard.sv(48) @ 180: uvm_test_top.env_h.scoreboard_h [write_drv STIM] in=01111000 
+UVM_INFO /home/runner/p_encoder_scoreboard.sv(67) @ 180: uvm_test_top.env_h.scoreboard_h [write_mon OUT ] in=01111000  || out=000
+UVM_INFO /home/runner/p_encoder_scoreboard.sv(84) @ 180: uvm_test_top.env_h.scoreboard_h [
+[PASS ] in=01111000  || out=000
+UVM_INFO /home/runner/p_encoder_scoreboard.sv(48) @ 185: uvm_test_top.env_h.scoreboard_h [write_drv STIM] in=11111100 
+UVM_INFO /home/runner/p_encoder_scoreboard.sv(67) @ 185: uvm_test_top.env_h.scoreboard_h [write_mon OUT ] in=11111100  || out=011
+UVM_INFO /home/runner/p_encoder_scoreboard.sv(84) @ 185: uvm_test_top.env_h.scoreboard_h [
+[PASS ] in=11111100  || out=011
+UVM_INFO /home/runner/p_encoder_scoreboard.sv(48) @ 190: uvm_test_top.env_h.scoreboard_h [write_drv STIM] in=11101101 
+UVM_INFO /home/runner/p_encoder_scoreboard.sv(67) @ 190: uvm_test_top.env_h.scoreboard_h [write_mon OUT ] in=11101101  || out=010
+UVM_INFO /home/runner/p_encoder_scoreboard.sv(84) @ 190: uvm_test_top.env_h.scoreboard_h [
+[PASS ] in=11101101  || out=010
+UVM_INFO /home/runner/p_encoder_scoreboard.sv(48) @ 195: uvm_test_top.env_h.scoreboard_h [write_drv STIM] in=01001011 
+UVM_INFO /home/runner/p_encoder_scoreboard.sv(67) @ 195: uvm_test_top.env_h.scoreboard_h [write_mon OUT ] in=01001011  || out=000
+UVM_INFO /home/runner/p_encoder_scoreboard.sv(84) @ 195: uvm_test_top.env_h.scoreboard_h [
+[PASS ] in=01001011  || out=000
+UVM_INFO /home/runner/p_encoder_scoreboard.sv(48) @ 200: uvm_test_top.env_h.scoreboard_h [write_drv STIM] in=00010110 
+UVM_INFO /home/runner/p_encoder_scoreboard.sv(67) @ 200: uvm_test_top.env_h.scoreboard_h [write_mon OUT ] in=00010110  || out=000
+UVM_INFO /home/runner/p_encoder_scoreboard.sv(84) @ 200: uvm_test_top.env_h.scoreboard_h [
+[PASS ] in=00010110  || out=000
+UVM_INFO /home/runner/p_encoder_scoreboard.sv(48) @ 205: uvm_test_top.env_h.scoreboard_h [write_drv STIM] in=01001110 
+UVM_INFO /home/runner/p_encoder_scoreboard.sv(67) @ 205: uvm_test_top.env_h.scoreboard_h [write_mon OUT ] in=01001110  || out=001
+UVM_INFO /home/runner/p_encoder_scoreboard.sv(84) @ 205: uvm_test_top.env_h.scoreboard_h [
+[PASS ] in=01001110  || out=001
+UVM_INFO /home/runner/p_encoder_scoreboard.sv(48) @ 210: uvm_test_top.env_h.scoreboard_h [write_drv STIM] in=11110011 
+UVM_INFO /home/runner/p_encoder_scoreboard.sv(67) @ 210: uvm_test_top.env_h.scoreboard_h [write_mon OUT ] in=11110011  || out=001
+UVM_INFO /home/runner/p_encoder_scoreboard.sv(84) @ 210: uvm_test_top.env_h.scoreboard_h [
+[PASS ] in=11110011  || out=001
+UVM_INFO /home/runner/p_encoder_scoreboard.sv(48) @ 215: uvm_test_top.env_h.scoreboard_h [write_drv STIM] in=00000101 
+UVM_INFO /home/runner/p_encoder_scoreboard.sv(67) @ 215: uvm_test_top.env_h.scoreboard_h [write_mon OUT ] in=00000101  || out=000
+UVM_INFO /home/runner/p_encoder_scoreboard.sv(84) @ 215: uvm_test_top.env_h.scoreboard_h [
+[PASS ] in=00000101  || out=000
+UVM_INFO /home/runner/p_encoder_scoreboard.sv(48) @ 220: uvm_test_top.env_h.scoreboard_h [write_drv STIM] in=10000100 
+UVM_INFO /home/runner/p_encoder_scoreboard.sv(67) @ 220: uvm_test_top.env_h.scoreboard_h [write_mon OUT ] in=10000100  || out=000
+UVM_INFO /home/runner/p_encoder_scoreboard.sv(84) @ 220: uvm_test_top.env_h.scoreboard_h [
+[PASS ] in=10000100  || out=000
+UVM_INFO /home/runner/p_encoder_scoreboard.sv(48) @ 225: uvm_test_top.env_h.scoreboard_h [write_drv STIM] in=01110000 
+UVM_INFO /home/runner/p_encoder_scoreboard.sv(67) @ 225: uvm_test_top.env_h.scoreboard_h [write_mon OUT ] in=01110000  || out=010
+UVM_INFO /home/runner/p_encoder_scoreboard.sv(84) @ 225: uvm_test_top.env_h.scoreboard_h [
+[PASS ] in=01110000  || out=010
+UVM_INFO /home/runner/p_encoder_scoreboard.sv(48) @ 230: uvm_test_top.env_h.scoreboard_h [write_drv STIM] in=11001001 
+UVM_INFO /home/runner/p_encoder_scoreboard.sv(67) @ 230: uvm_test_top.env_h.scoreboard_h [write_mon OUT ] in=11001001  || out=100
+UVM_INFO /home/runner/p_encoder_scoreboard.sv(84) @ 230: uvm_test_top.env_h.scoreboard_h [
+[PASS ] in=11001001  || out=100
+UVM_INFO /home/runner/p_encoder_scoreboard.sv(48) @ 235: uvm_test_top.env_h.scoreboard_h [write_drv STIM] in=10001111 
+UVM_INFO /home/runner/p_encoder_scoreboard.sv(67) @ 235: uvm_test_top.env_h.scoreboard_h [write_mon OUT ] in=10001111  || out=000
+UVM_INFO /home/runner/p_encoder_scoreboard.sv(84) @ 235: uvm_test_top.env_h.scoreboard_h [
+[PASS ] in=10001111  || out=000
+UVM_INFO /home/runner/p_encoder_scoreboard.sv(48) @ 240: uvm_test_top.env_h.scoreboard_h [write_drv STIM] in=11000010 
+UVM_INFO /home/runner/p_encoder_scoreboard.sv(67) @ 240: uvm_test_top.env_h.scoreboard_h [write_mon OUT ] in=11000010  || out=000
+UVM_INFO /home/runner/p_encoder_scoreboard.sv(84) @ 240: uvm_test_top.env_h.scoreboard_h [
+[PASS ] in=11000010  || out=000
+UVM_INFO /home/runner/p_encoder_scoreboard.sv(48) @ 245: uvm_test_top.env_h.scoreboard_h [write_drv STIM] in=01100010 
+UVM_INFO /home/runner/p_encoder_scoreboard.sv(67) @ 245: uvm_test_top.env_h.scoreboard_h [write_mon OUT ] in=01100010  || out=001
+UVM_INFO /home/runner/p_encoder_scoreboard.sv(84) @ 245: uvm_test_top.env_h.scoreboard_h [
+[PASS ] in=01100010  || out=001
+UVM_INFO /home/runner/p_encoder_scoreboard.sv(48) @ 250: uvm_test_top.env_h.scoreboard_h [write_drv STIM] in=01101111 
+UVM_INFO /home/runner/p_encoder_scoreboard.sv(67) @ 250: uvm_test_top.env_h.scoreboard_h [write_mon OUT ] in=01101111  || out=001
+UVM_INFO /home/runner/p_encoder_scoreboard.sv(84) @ 250: uvm_test_top.env_h.scoreboard_h [
+[PASS ] in=01101111  || out=001
+UVM_INFO /home/runner/p_encoder_scoreboard.sv(48) @ 255: uvm_test_top.env_h.scoreboard_h [write_drv STIM] in=11101001 
+UVM_INFO /home/runner/p_encoder_scoreboard.sv(67) @ 255: uvm_test_top.env_h.scoreboard_h [write_mon OUT ] in=11101001  || out=000
+UVM_INFO /home/runner/p_encoder_scoreboard.sv(84) @ 255: uvm_test_top.env_h.scoreboard_h [
+[PASS ] in=11101001  || out=000
+UVM_INFO /home/runner/p_encoder_scoreboard.sv(48) @ 260: uvm_test_top.env_h.scoreboard_h [write_drv STIM] in=11010000 
+UVM_INFO /home/runner/p_encoder_scoreboard.sv(67) @ 260: uvm_test_top.env_h.scoreboard_h [write_mon OUT ] in=11010000  || out=000
+UVM_INFO /home/runner/p_encoder_scoreboard.sv(84) @ 260: uvm_test_top.env_h.scoreboard_h [
+[PASS ] in=11010000  || out=000
+UVM_INFO /home/runner/p_encoder_scoreboard.sv(48) @ 265: uvm_test_top.env_h.scoreboard_h [write_drv STIM] in=00100100 
+UVM_INFO /home/runner/p_encoder_scoreboard.sv(67) @ 265: uvm_test_top.env_h.scoreboard_h [write_mon OUT ] in=00100100  || out=100
+UVM_INFO /home/runner/p_encoder_scoreboard.sv(84) @ 265: uvm_test_top.env_h.scoreboard_h [
+[PASS ] in=00100100  || out=100
+UVM_INFO /home/runner/p_encoder_scoreboard.sv(48) @ 270: uvm_test_top.env_h.scoreboard_h [write_drv STIM] in=11100101 
+UVM_INFO /home/runner/p_encoder_scoreboard.sv(67) @ 270: uvm_test_top.env_h.scoreboard_h [write_mon OUT ] in=11100101  || out=010
+UVM_INFO /home/runner/p_encoder_scoreboard.sv(84) @ 270: uvm_test_top.env_h.scoreboard_h [
+[PASS ] in=11100101  || out=010
+UVM_INFO /home/runner/p_encoder_scoreboard.sv(48) @ 275: uvm_test_top.env_h.scoreboard_h [write_drv STIM] in=00010011 
+UVM_INFO /home/runner/p_encoder_scoreboard.sv(67) @ 275: uvm_test_top.env_h.scoreboard_h [write_mon OUT ] in=00010011  || out=000
+UVM_INFO /home/runner/p_encoder_scoreboard.sv(84) @ 275: uvm_test_top.env_h.scoreboard_h [
+[PASS ] in=00010011  || out=000
+UVM_INFO /home/runner/p_encoder_scoreboard.sv(48) @ 280: uvm_test_top.env_h.scoreboard_h [write_drv STIM] in=10101110 
+UVM_INFO /home/runner/p_encoder_scoreboard.sv(67) @ 280: uvm_test_top.env_h.scoreboard_h [write_mon OUT ] in=10101110  || out=000
+UVM_INFO /home/runner/p_encoder_scoreboard.sv(84) @ 280: uvm_test_top.env_h.scoreboard_h [
+[PASS ] in=10101110  || out=000
+UVM_INFO /home/runner/p_encoder_coverage.sv(51) @ 290: uvm_test_top.env_h.coverage_h [p_encoder_coverage] Coverage is 18.750000
+UVM_INFO /home/runner/p_encoder_scoreboard.sv(103) @ 290: uvm_test_top.env_h.scoreboard_h [PASSED] *** TEST PASSED - 55 vectors ran, 55 vectors passed ***
